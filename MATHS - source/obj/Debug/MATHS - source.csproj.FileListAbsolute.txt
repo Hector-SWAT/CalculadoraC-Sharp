@@ -1,0 +1,16 @@
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\bin\Debug\MATHS - source.exe.config
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\bin\Debug\MATHS - source.exe
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\bin\Debug\MATHS - source.pdb
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\obj\Debug\MATHS - source.csprojAssemblyReference.cache
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\obj\Debug\MATHS___source.Properties.Resources.resources
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\obj\Debug\MATHS - source.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\obj\Debug\MATHS - source.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\obj\Debug\MATHS - source.exe
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\obj\Debug\MATHS - source.pdb
+C:\Users\henry\source\repos\MATHS - source\MATHS - source\obj\Debug\MATHS___source.maths.resources
+C:\Users\Usuario\Downloads\calculadora\MATHS - source\MATHS - source\bin\Debug\MATHS - source.exe.config
+C:\Users\Usuario\Downloads\calculadora\MATHS - source\MATHS - source\obj\Debug\MATHS - source.exe
+C:\Users\Usuario\Downloads\calculadora\MATHS - source\MATHS - source\obj\Debug\MATHS - source.pdb
+C:\Users\Usuario\Downloads\Calculadoras\calculadora\MATHS - source\MATHS - source\bin\Debug\MATHS - source.exe.config
+C:\Users\Usuario\Downloads\Calculadoras\calculadora\MATHS - source\MATHS - source\obj\Debug\MATHS - source.exe
+C:\Users\Usuario\Downloads\Calculadoras\calculadora\MATHS - source\MATHS - source\obj\Debug\MATHS - source.pdb
